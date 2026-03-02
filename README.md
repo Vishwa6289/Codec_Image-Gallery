@@ -1,7 +1,7 @@
 
-# 🖼️ CodeAlpha Image Gallery
+# 🖼️ Codec Image Gallery
 
-A modern, responsive image gallery with filtering, sorting, and lightbox functionality. Built as a part of the **CodeAlpha Frontend Internship**.
+A modern, responsive image gallery with filtering, sorting, and lightbox functionality. Built as a part of the **Codec web development Internship**.
 
 ## 🚀 Features
 - 🔍 Category filters (Nature, Architecture, People, Animals)
