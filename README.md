@@ -11,7 +11,7 @@ A modern, responsive image gallery with filtering, sorting, and lightbox functio
 - 📱 Fully responsive and mobile-friendly
 
 ## 🔗 Live Demo
-👉 https://github.com/Vishwa6289/CodeAlpha_Image-Gallery.git
+👉 https://github.com/Vishwa6289/Codec_Image-Gallery
 
 ## 🛠 Built With
 - HTML5
