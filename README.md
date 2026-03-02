@@ -21,4 +21,4 @@ A modern, responsive image gallery with filtering, sorting, and lightbox functio
 ---
 
 ### 📌 Project by Vishwa6289
-Part of the CodeAlpha Internship Program – July 2025
+Part of the Codec Internship Program – July 2025
